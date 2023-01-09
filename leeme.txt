@@ -1,0 +1,3 @@
+ejemplo de api rest crud sin base de datos.
+los datos son tomados de un archivo json.
+faltan los datos de postman

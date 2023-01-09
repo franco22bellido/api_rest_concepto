@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "artist": "Gustavo Cerati",
+        "guitar" : "PRS MULTIFOIL"
+
+    },
+    {
+        "id": "2",
+        "artist": "David Guilmour",
+        "guitar" : "Fender STRATOCASTER Black-Strat"
+
+    },
+    {
+        "id": "3",
+        "artist": "LA Spinetta",
+        "guitar" : "Fender STRATOCASTER Red"
+
+    },
+    {
+        "id": "4",
+        "artist": "Jhonny Greenwood",
+        "guitar" : "Fender TELECASTER"
+
+    },
+    {
+        "id": "5",
+        "artist": "Noel Ghallagher",
+        "guitar" : "Gibson 335 Red"
+
+    }
+]   
